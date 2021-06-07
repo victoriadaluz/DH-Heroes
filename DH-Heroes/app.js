@@ -22,3 +22,4 @@ app.get("/turing", (req,res)=>res.sendFile(path.join(__dirname,"/DH-Heroes/views
 
 
 app.use(express.static(path.join(__dirname, 'DH-Heroes')));
+app.use(express.static("public"));
