@@ -1,13 +1,21 @@
 {
   "name": "tp-heroes",
   "version": "1.0.0",
-  "description": "TP DH-Heroes",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Victoria Da Luz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriadaluz/DH-Heroes.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriadaluz/DH-Heroes/issues"
+  },
+  "homepage": "https://github.com/victoriadaluz/DH-Heroes#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
